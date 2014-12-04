@@ -33,7 +33,7 @@ class DatesAndtimes
   end
 
   def authors_age(age)
-    TROYage / (seconds * minute * day * year)
+    age / (seconds * minute * day * year)
   end
 
   def to_s
