@@ -16,5 +16,6 @@ In the terminal type ruby runner.rb and just follow the directions.
 - Option 4 leap year
   - This option is going to ask you for a starting year and a ending year and it will tell you all the leap years in between those dates.
 - Option 5 exit
+
 ---
 Thanks for stopping by!
